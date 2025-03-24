@@ -1,15 +1,5 @@
-# vitepress_test
+# The Ultimate Guide to Buying PC Parts
 
-To install dependencies:
+A comprehensive guide of things you should know when picking out parts for a gaming PC.
 
-```bash
-bun install
-```
-
-To run:
-
-```bash
-bun run index.ts
-```
-
-This project was created using `bun init` in bun v1.2.5. [Bun](https://bun.sh) is a fast all-in-one JavaScript runtime.
+Check it out at site
