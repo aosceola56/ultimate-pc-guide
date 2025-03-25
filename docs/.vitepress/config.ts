@@ -10,18 +10,14 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'How to Contribute', link: '/contributing' },
+      { text: 'Guides', link: '/guides' },
+      { text: 'Contribute', link: '/contributing' },
       {
-        text: 'Parts List',
+        text: 'Categories',
         items: [
-          { text: '🧠 CPUs', link: '/parts/cpu' },
-          { text: '❄ CPU Coolers', link: '/parts/cooler' },
-          { text: '⚡ Motherboards', link: '/parts/mobo' },
-          { text: '💾 Memory', link: '/parts/ram' },
-          { text: '🗃 Storage', link: '/parts/storage' },
-          { text: '💻 Graphics Cards', link: '/parts/gpu' },
-          { text: '📦 Cases', link: '/parts/case' },
-          { text: '🔌 Power Supplies', link: '/parts/psu' },
+          { text: 'Tower', link: '/pages/tower/' },
+          { text: 'Peripherals', link: '/pages/peripherals/' },
+          { text: 'Other', link: '/pages/other/' },
         ]
       }
     ],
@@ -29,8 +25,10 @@ export default defineConfig({
     sidebar: [
       {
         items: [
-          { text: 'Getting Started', link: '/getting-started' },
-          { text: 'Contribute', link: '/contributing' }
+          { text: '📌 Getting Started', link: '/pages/getting-started/' },
+          { text: '📃 Guides', link: '/pages/guides/' },
+          { text: '🤝 Contribute', link: '/pages/contributing/' },
+          { text: '📖 Glossary', link: '/pages/glossary/' },
         ]
       },
       {
@@ -38,19 +36,40 @@ export default defineConfig({
         items: [
           {
             text: 'Tower',
+            collapsed: false,
             items: [
-              { text: '🧠 CPUs', link: '/parts/cpu' },
-              { text: '❄ CPU Coolers', link: '/parts/cooler' },
-              { text: '⚡ Motherboards', link: '/parts/mobo' },
-              { text: '💾 Memory', link: '/parts/ram' },
-              { text: '🗃 Storage', link: '/parts/storage' },
-              { text: '💻 Graphics Cards', link: '/parts/gpu' },
-              { text: '📦 Cases', link: '/parts/case' },
-              { text: '🔌 Power Supplies', link: '/parts/psu' },
+              { text: '🧠 CPUs', link: '/pages/tower/cpu/' },
+              { text: '❄ CPU Coolers', link: '/pages/tower/cooler/' },
+              { text: '⚡ Motherboards', link: '/pages/tower/mobo/' },
+              { text: '💾 Memory', link: '/pages/tower/ram/' },
+              { text: '🗃 Storage', link: '/pages/tower/storage/' },
+              { text: '💻 Graphics Cards', link: '/pages/tower/gpu/' },
+              { text: '📦 Cases', link: '/pages/tower/case/' },
+              { text: '🔌 Power Supplies', link: '/pages/tower/psu/' },
+              { text: '💨 Case Fans', link: '/pages/tower/fans/' },
+              { text: '➰ Cable Extensions', link: '/pages/tower/extensions/' },
+            ]
+          },
+          {
+            text: 'Peripherals',
+            collapsed: false,
+            items: [
+              { text: '🖥 Monitors', link: '/pages/peripherals/monitor/' },
+              { text: '🖱 Mice', link: '/pages/peripherals/mouse/' },
+              { text: '⌨ Keyboards', link: '/pages/peripherals/kb/' },
+              { text: '🔊 Audio', link: '/pages/peripherals/audio/' },
+            ]
+          },
+          {
+            text: 'Other',
+            collapsed: false,
+            items: [
+              { text: 'NAS', link: '/pages/other/nas/' },
+              { text: 'Accessories', link: '/pages/other/accessories/' },
             ]
           }
         ]
-      }
+      },
     ],
 
     socialLinks: [
@@ -64,7 +83,7 @@ export default defineConfig({
 
     footer: {
       message: 'Made with ❤ from DatGamer56',
-      copyright: 'v1.0.0 - MIT License'
+      copyright: 'Copyright © 2025 aosceola56 - <a href="https://github.com/aosceola56/ultimate-pc-guide/blob/main/LICENSE" target="_blank" referrer="noreferrer noopener">MIT License</a>'
     }
   }
 })
