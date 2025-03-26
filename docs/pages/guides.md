@@ -2,25 +2,115 @@
 
 Don't feel like coming up with builds yourself? This page contains dozens of premade builds for any budget!
 
+::: info
+If there is an issue with any of these lists, please let me know on [Discord @datgamer56](https://discord.com/invite/ztt).
+:::
+
 ## Table of Contents
 [[toc]]
 
+## Poor Man's PC (<$300)
+
+A very basic gaming PC can be constructed from any OEM office PC, such as a Dell Optiplex, HP Envy, etc. These are readily available on used marketplaces for as little as around $100 for something decent.
+
+**Oftentimes, these PCs don't come with dedicated graphics.** So, to convert these into gaming PCs, try finding a used graphics card to put inside of it. Some good options are:
+
+### For Non Dedicated Power:
+(i.e.: You don't need to connect a PSU cable to it, as many OEMs don't have a dedicated 6+2 connector for GPUs.)
+- **Used GTX 1650** (~$83)
+- **Used RX 6400** (~$100)
+- **Used Arc A380** (~$100)
+
+### For Dedicated Power:
+(i.e.: Requires a 6+2 connection from the power supply. If need be, you can pick up a [SATA to PCIe Adapter](https://www.amazon.com/s?k=sata+to+pcie+adapter) to fix this.)
+
+- **Used RX 580** (~$40)
+- **Used GTX 1660 Super** (~$80)
+- **Used RTX 2060** (~$100)
+
+::: warning
+Be advised that, depending on the OEM model you choose, **you may have to opt for an SFF GPU**, such as the ones in the non-dedicated power section.
+:::
+
+::: tip
+**It's helpful to upgrade the storage or memory of your OEM.** Many office PCs only come with 8GB of memory and HDD storage. Adding an extra 8GB of memory or upgrading to an SSD will vastly improve the performance of your system.
+:::
+
+## Dirtier Cheap (<$350)
+
+[Black Version](https://pcpartpicker.com/user/DatGamer56/saved/LDwndC) <Badge type="tip" text="$338" /> <Badge type="info" text="R5 2600" /> <Badge type="info" text="16GB DDR4" /> <Badge type="info" text="1TB" /> <Badge type="info" text="Used RX 580" />
+
+[White Version](https://pcpartpicker.com/user/DatGamer56/saved/vsKL4D) <Badge type="tip" text="$339" /> <Badge type="info" text="R5 2600" /> <Badge type="info" text="16GB DDR4" /> <Badge type="info" text="1TB" /> <Badge type="info" text="Used RX 580" />
+
+
+This is the cheapest build you can reliably put together repeatedly. Any cheaper than this and you can no longer guarantee the performance. *No seriously, it really doesn't get cheaper than this.* It features:
+
+- **Ryzen 5 2600 + 16GB DDR4 + A320m Combo:** CPU + Mobo + RAM combo from Aliexpress for only $107.
+
+- **1TB SSD:** While the SSD will be bottlenecked by PCIe 3.0 speeds, it will still be a good midrange SSD if you decide to upgrade in the future.
+
+- **Dedicated WiFi Card:** Since the motherboard in the combo deal doesn't include Wifi/Bluetooth, I've included an adapter that will add such functionality.
+
+- **Used RX 580:** A classic budget Nvidia card that can still handle most titles in 1080p.
+
+## Dirt Cheap (<$400)
+
+[Black RGB Version](https://pcpartpicker.com/user/DatGamer56/saved/4y4kjX) <Badge type="tip" text="$393" /> <Badge type="info" text="R5 2600X" /> <Badge type="info" text="16GB DDR4" /> <Badge type="info" text="1TB" /> <Badge type="info" text="GTX 1660 Super" />
+
+[White RGB Version](https://pcpartpicker.com/user/DatGamer56/saved/sqpndC) <Badge type="tip" text="$399" /> <Badge type="info" text="R5 2600X" /> <Badge type="info" text="16GB DDR4" /> <Badge type="info" text="1TB" /> <Badge type="info" text="GTX 1660 Super" />
+
+
+This is the cheapest build that can afford modern PC luxuries, such as integrated WiFi, Bluetooth, and RGB. It features:
+
+- **Ryzen 5 2600X:** Works great for ultra-budget builds. Does not support PCIe 4.0.
+
+- **16GB DDR4 RAM:** While it may not last long in 2025, this is still a good minimum for memory.
+
+- **1TB SSD:** While the SSD will be bottlenecked by PCIe 3.0 speeds, it will still be a good midrange SSD if you decide to upgrade in the future.
+
+- **Used GTX 1660 Super:** A classic budget Nvidia card that can still handle most titles in 1080p.
+
 ## Ultra Budget (<$450)
 
-[Black RGB Version](https://pcpartpicker.com/list/g9dq74) <Badge type="tip" text="$448" /> <Badge type="info" text="R5 3600" /> <Badge type="info" text="16GB DDR4" /> <Badge type="info" text="1TB" /> <Badge type="info" text="RTX 2060" />
+[Black RGB Version](https://pcpartpicker.com/user/DatGamer56/saved/GYrCD3) <Badge type="tip" text="$448" /> <Badge type="info" text="R5 3600" /> <Badge type="info" text="16GB DDR4" /> <Badge type="info" text="1TB" /> <Badge type="info" text="RTX 2060" />
 
-[White RGB Version](https://pcpartpicker.com/list/cLNpNz) <Badge type="tip" text="$448" /> <Badge type="info" text="R5 3600" /> <Badge type="info" text="16GB DDR4" /> <Badge type="info" text="1TB" /> <Badge type="info" text="RTX 2060" />
+[White RGB Version](https://pcpartpicker.com/user/DatGamer56/saved/HTHjJx) <Badge type="tip" text="$448" /> <Badge type="info" text="R5 3600" /> <Badge type="info" text="16GB DDR4" /> <Badge type="info" text="1TB" /> <Badge type="info" text="RTX 2060" />
 
 
-This is the cheapest build that can afford modern PC luxuries, such as SSDs. It features:
+You'd be surprised at what you can get at this price point. This can easily destroy any title in 1080p and won't empty your wallet. It features:
 
 - **Ryzen 5 3600:** A value PCIe 4.0 chip which can still handle modern titles.
 
 - **16GB DDR4 RAM:** While it may not last long in 2025, this is still a good minimum for memory.
 
-- **1TB SSD:** The black version of the build features the Kingspec XG7000 1TB, which has impressive R/W speeds at a low cost. For $6 over budget, you can get the same thing on the white build.
+- **1TB SSD:** The black version of the build features the Kingspec XG7000 1TB, which has impressive R/W speeds at a low cost.
+
+::: tip
+For $6 over budget, you can get the same SSD on the white version.
+:::
 
 - **Used RTX 2060:** Looking on Offerup and FB, I found a few listings for a used RTX 2060 for $90.
+
+## Budget (<$500)
+
+[Black RGB Version](https://pcpartpicker.com/user/DatGamer56/saved/kFZdxr) <Badge type="tip" text="$498" /> <Badge type="info" text="R5 3600" /> <Badge type="info" text="16GB DDR4" /> <Badge type="info" text="1TB" /> <Badge type="info" text="RX 5700 XT" />
+
+[White RGB Version](https://pcpartpicker.com/user/DatGamer56/saved/qcxm3C) <Badge type="tip" text="$498" /> <Badge type="info" text="R5 3600" /> <Badge type="info" text="16GB DDR4" /> <Badge type="info" text="1TB" /> <Badge type="info" text="RX 5700 XT" />
+
+
+People often compare PCs to consoles since consoles tend to offer a better gaming experience for the price. Well, for the price of a PS5, you can get:
+
+- **Ryzen 5 3600:** A value PCIe 4.0 chip which can still handle modern titles.
+
+- **16GB DDR4 RAM:** While it may not last long in 2025, this is still a good minimum for memory.
+
+- **1TB SSD:** Features a great midrange PCIe 4.0 SSD.
+
+::: tip
+For $6 over budget, you can get the Kingspec XG7000, which has substantially better R/W speeds.
+:::
+
+- **Used RX 5700 XT:** Looking on Offerup and FB, I found a few listings for a used RX 5700 XT for $140.
 
 ## What makes a gaming PC?
 

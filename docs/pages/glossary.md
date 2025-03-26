@@ -115,6 +115,7 @@ Don't know what something means? Look it up here.
 - **LGA (Land Grid Array)**: A type of CPU socket with pins on the motherboard.
 
 ## M
+- **Memory**: Short for Random Access Memory (RAM). Volatile memory used for temporary data storage.
 - **M.2**: A small, high-speed expansion card interface to connect components like SSDs, Wi-Fi, or Bluetooth modules.
   - **M.2-2230**: The form factor of an M.2 module, representing 22x30mm.
   - **M.2-2242**: The form factor of an M.2 module, representing 22x42mm.
@@ -172,7 +173,7 @@ Don't know what something means? Look it up here.
 - **Refresh Rate**: The number of times per second (measured in hertz, Hz) that a monitor updates its image.
 - **Response Time**: The time it takes for a pixel to change from one color to another, measured in milliseconds (ms).
 - **RGB (Red, Green, Blue)**: Lighting technology for aesthetic customization.
-- **RAM (Random Access Memory)**: Volatile memory used for temporary data storage.
+- **RAM (Random Access Memory)**: Volatile memory used for temporary data storage. Also known simply as Memory.
 - **Riser Cable**: Extends PCIe slots for unique GPU placements.
 - **Radiator**: A component designed to dissipate heat in water cooling setups.
 - **Read/Write Speeds (R/W)**: Refers to how fast an SSD or HDD can read and write data, in MB/s.
@@ -209,6 +210,7 @@ Don't know what something means? Look it up here.
 - **Variable Refresh Rate (VRR)**: A feature that allows the monitor to change its refresh rate dynamically to match the frame rate.
 - **Viewing Angle**: The maximum angle at which a monitor can be viewed with acceptable visual performance.
 - **VRM (Voltage Regulator Module)**: Regulates power to the CPU and GPU.
+- **VRAM (Video Random Access Memory)**: A specialized type of memory used to store image data and textures for rapid access by a GPU.
 - **VR (Virtual Reality)**: Immersive simulation using headsets and motion tracking.
 - **VSync (Vertical Sync)**: A graphics setting to synchronize the frame rate with the monitor’s refresh rate to prevent screen tearing.
 
