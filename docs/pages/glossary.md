@@ -152,6 +152,7 @@ Don't know what something means? Look it up here.
 - **Open Loop**: A form of water cooling built from scratch using water blocks, pumps, tubes, etc. Also known as a "Custom Loop".
 
 ## P
+- **PCPP (PCPartPicker)**: A site which allows you to construct build component lists for organization and sharing.
 - **Pin (CPU)**: A metal contact used to transmit electrical signals between the CPU and motherboard.
 - **Pin (PSU)**: A metal terminal used to transmit power between connected components.
 - **PSU (Power Supply Unit)**: A component that provides power to the PC.

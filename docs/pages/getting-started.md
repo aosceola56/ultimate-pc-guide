@@ -225,6 +225,10 @@ Here’s a comprehensive list of compatibility checks to make:
 You can use sites like [PCPartPicker](https://pcpartpicker.com/) to check compatibility and organize your build.
 :::
 
+### Buying Used
+My three favorite places to search for used PC components are Facebook Marketplace, OfferUp, and Ebay, as they often have great deals.
+The guides
+
 ### Future-proofing
 Games and apps are constantly changing. While it may be tempting to get the best value system right now, it's important to account for the future. A system built today might need upgrades sooner than others due to a lack of PSU wattage for a new GPU, for example. This should be accounted for in your part selection.
 
