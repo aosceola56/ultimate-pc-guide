@@ -18,7 +18,7 @@ Don't know what something means? Look it up here.
 - **ARGB (Addressable Red, Green, Blue)**: Denotes RGB products which can be controlled through ARGB motherboard headers.
 - **Aspect Ratio**: The proportional relationship between a display’s width and height, such as 16:9 or 4:3.
 - **ATX (Advanced Technology eXtended)**: A motherboard and case form factor standard.
-- **APU (Accelerated Processing Unit)**: A processor that combines a CPU and GPU on a single chip.
+- **APU (Accelerated Processing Unit)**: A processor that combines a CPU and GPU on a single chip. AMD's name for an iGPU.
 - **AIO (All-In-One)**: A water cooling solution for CPUs consisting of a pre-assembled pump and radiator.
 
 ## B
@@ -37,6 +37,7 @@ Don't know what something means? Look it up here.
   - **Threads**: Virtual divisions of a core, allowing it to handle multiple tasks simultaneously.
   - **Clock Speed**: The speed at which a CPU operates, measured in GHz.
   - **Turbo Boost**: Intel’s technology to increase clock speed dynamically.
+  - **SMT (Simultaneous Multithreading)**: Allows multiple independent threads to be executed simultaneously on a single physical CPU core to improve utilization and performance.
   - **Hyper-Threading**: Intel technology that allows a single core to handle two threads.
   - **Cache**: High-speed memory within the CPU to store frequently used data.
 - **Case/Chassis**: The physical frame or structure that holds all the PC components.
@@ -98,7 +99,7 @@ Don't know what something means? Look it up here.
 - **Idle Temperature**: The temperature of a component when not under load.
 - **IO (Input/Output)**: General term for data transfer between the PC and peripherals or storage devices.
 - **IO Shield**: A metal plate that fits on the back of the case to protect the motherboard’s I/O ports.
-- **Integrated Graphics**: Graphics processing integrated into the CPU.
+- **Integrated Graphics (iGPU)**: Graphics processing integrated into the CPU.
 - **IPS (In-Plane Switching)**: A type of monitor panel with good color accuracy and viewing angles.
 
 ## J
@@ -142,7 +143,7 @@ Don't know what something means? Look it up here.
 ## N
 - **NAND**: A type of non-volatile flash memory used in SSDs and other storage devices to store data even when the power is turned off.
 - **Non-Modular PSU**: A power supply where all cables are fixed to the PSU.
-- **SPU (Sound Processing Unit)**: Handles audio processing.
+- **NPU (Neural Processing Unit)**: A type of processor designed to handle AI and machine learning workloads. 
 - **NVMe (Non-Volatile Memory Express)**: A high-speed interface for SSDs.
 - **Northbridge**: A chipset component that manages communication between the CPU, RAM, and GPU.
 
@@ -198,6 +199,7 @@ Don't know what something means? Look it up here.
 - **TN (Twisted Nematic)**: A type of display technology which offers fast response times and refresh rates. Has the worse viewing angles and colors than VA and IPS.
 
 ## U
+- **Upgrade Path**: Refers to the range of future products that are compatible with your current motherboard and system setup.
 - **Undervolting**: Reducing the voltage supplied to a component to decrease heat output and power consumption.
 - **UPS (Uninterruptible Power Supply)**: A backup power source for the PC.
 - **UEFI (Unified Extensible Firmware Interface)**: A modern BIOS replacement with more features.
