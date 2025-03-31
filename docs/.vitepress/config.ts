@@ -10,8 +10,8 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Guides', link: '/guides' },
-      { text: 'Contribute', link: '/contributing' },
+      { text: 'Guides', link: '/pages/guides/' },
+      { text: 'Contribute', link: '/pages/contributing/' },
       {
         text: 'Categories',
         items: [
